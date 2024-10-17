@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="new_width">24dp</dimen>
+    <dimen name="new_height">24dp</dimen>
+    <dimen name="margin_end_dimension">5dp</dimen>
+</resources>
